@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/farel015/simple/static/css/main.8a7e7650.css",
-    "main.js": "/farel015/simple/static/js/main.edb32e67.js",
-    "static/media/konsumsiapi.JPG": "/farel015/simple/static/media/konsumsiapi.5fce60c001fc1f19247c.JPG",
-    "static/media/crud.JPG": "/farel015/simple/static/media/crud.2e22c96da56b44eb47b9.JPG",
-    "index.html": "/farel015/simple/index.html",
-    "main.8a7e7650.css.map": "/farel015/simple/static/css/main.8a7e7650.css.map",
-    "main.edb32e67.js.map": "/farel015/simple/static/js/main.edb32e67.js.map"
+    "main.css": "/simple/static/css/main.8a7e7650.css",
+    "main.js": "/simple/static/js/main.24831783.js",
+    "static/media/konsumsiapi.JPG": "/simple/static/media/konsumsiapi.5fce60c001fc1f19247c.JPG",
+    "static/media/crud.JPG": "/simple/static/media/crud.2e22c96da56b44eb47b9.JPG",
+    "index.html": "/simple/index.html",
+    "main.8a7e7650.css.map": "/simple/static/css/main.8a7e7650.css.map",
+    "main.24831783.js.map": "/simple/static/js/main.24831783.js.map"
   },
   "entrypoints": [
     "static/css/main.8a7e7650.css",
-    "static/js/main.edb32e67.js"
+    "static/js/main.24831783.js"
   ]
 }
